@@ -39,11 +39,9 @@ Link to dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 - Split the dataset into training and testing sets to evaluate model performance.
 - Built multiple machine learning models such as:
   - Logistic Regression
-  - Decision Tree Classifier
   - Random Forest Classifier
-  - Gradient Boosting Classifier
   - Support Vector Machines (SVM)
-- Tuned hyperparameters for each model using GridSearchCV to find the optimal settings for performance.
+- Tuned hyperparameters for best model using GridSearchCV to find the optimal settings for performance and final best performing model.
 
 ### 5. Model Evaluation
 
@@ -66,21 +64,6 @@ Link to dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 
 This project provides a comprehensive analysis of employee attrition and offers valuable insights to HR professionals and management teams. By leveraging the power of data analytics and machine learning, organizations can make informed decisions to reduce turnover rates, retain top talent, and improve overall organizational performance.
 
-## How to Use This Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/employee-attrition-analysis.git
-   ```
-   
-2. **Install Required Libraries**:
-   Ensure you have Python installed and use the following command to install the necessary libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter Notebook**:
-   Launch Jupyter Notebook and open `Employee_Attrition_Analysis.ipynb` to explore the data analysis and modeling process.
 
 ## Future Enhancements
 
@@ -92,9 +75,6 @@ This project provides a comprehensive analysis of employee attrition and offers 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for suggestions and improvements.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
